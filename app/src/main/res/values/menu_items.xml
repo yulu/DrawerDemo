@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_items">
+        <item >Main</item>
+        <item >Button</item>
+        <item >CheckBox</item>
+        <item >EditText</item>
+        <item >ImageView</item>
+        <item >ListView</item>
+        <item >RadioButton</item>
+        <item >TextView</item>
+        <item >ToggleButton</item>
+        <item >WebView</item>
+    </string-array>
+</resources>
